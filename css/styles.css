@@ -1,0 +1,20 @@
+:root {
+    --color-light:#F4F5F9;
+}
+
+* {
+    font-family: "Heebo", sans-serif;
+}
+
+.light {
+    color: var(--color-light);
+}
+
+.background-light {
+    background-color: var(--color-light);
+}
+
+.item {
+    margin: 10px 0;
+    padding: 10px;
+}
