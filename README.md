@@ -12,4 +12,4 @@ Design simples e intuitivo.
 
 🌐 Link para Acesso
 O projeto está disponível e pode ser acessado aqui:
-matrix-shop-two.vercel.app
+https://matrix-shop-two.vercel.app/
